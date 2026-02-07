@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous-resurgence-epic-narrative-freedom-constraint",
+  "title": "The Bone Key Archive",
+  "tagline": "To save his people's future, a man must swallow their past and break the dam of memory.",
+  "target_words": 70000,
+  "actual_words": 71170,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The River vs. The Dam: Living Memory vs. Static Archive",
+    "Intergenerational Trauma and Transmission",
+    "Embodied Knowledge vs. Bureaucratic Record",
+    "Climate Change as Colonial Continuity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hungry River",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Swallowed Key",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Archivist's Visit",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "Echoes in the Concrete",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "The First Dream of Water",
+      "words": 3300
+    },
+    {
+      "ch": 6,
+      "title": "Uncle's Bargain",
+      "words": 2800
+    },
+    {
+      "ch": 7,
+      "title": "The Ghost Salmon Run",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "Code of the Current",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Weeping Spruce",
+      "words": 2700
+    },
+    {
+      "ch": 10,
+      "title": "Council of the Displaced",
+      "words": 3400
+    },
+    {
+      "ch": 11,
+      "title": "The Dam's Dream",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Bone Memory",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "The Upriver Journey",
+      "words": 3600
+    },
+    {
+      "ch": 14,
+      "title": "The Keeper in the Rapids",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "Speaking to Stone",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The Archive's Heart",
+      "words": 3500
+    },
+    {
+      "ch": 17,
+      "title": "Voices in the Silo",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "A Ritual of Release",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The River's Price",
+      "words": 3400
+    },
+    {
+      "ch": 20,
+      "title": "Carrying the House",
+      "words": 2700
+    },
+    {
+      "ch": 21,
+      "title": "The New Old Way",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "Flood Pattern",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "Not a Rock",
+      "words": 2800
+    },
+    {
+      "ch": 24,
+      "title": "A Free Tributary",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'listens' to a non-human entity (a river, a forest, a mountain) and learns a story that contradicts the official record.",
+      "Create a monologue for a Keeper of the Archive, justifying why containment is a form of preservation and freedom is chaos.",
+      "Imagine a 'glitch' in the Archive—a story that refuses to be categorized or still speaks. Describe its manifestation and what it says.",
+      "Write a dialogue between Kai and his mother, set in a memory-dream, where she teaches him not a specific fact, but a *way* of knowing."
+    ],
+    "technical": [
+      "Design a conceptual data structure for 'The Archive' that is inherently restrictive—how does it tag, sort, and limit the stories it holds? How would you hack it?",
+      "Prototype a 'river code' interface: a system for navigating information not through folders or search, but through flow, tributaries, depth, and seasonal change."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Ursula K. Le Guin",
+      "Frantz Fanon",
+      "Robin Wall Kimmerer"
+    ]
+  },
+  "cover_prompt": "A solitary indigenous man, his face etched with ancestral sorrow and resolve, opens his mouth as a torrent of glowing, spectral bones and river water erupts from within him, shattering a monolithic concrete dam wall before him, [Detailed Scene & Context: set at the confluence of a wild, living river and a colossal, cracking hydroelectric dam, with archival documents and filing cabinets being swept away by the liberated waters, under a sky torn between storm clouds and breaking dawn], [Artistic Style & Medium: in the atmospheric and mythic style of Kent Monkman and Benjamin Chee Chee, blending contemporary figurative painting with symbolic indigenous iconography, using textured oils and watercolor washes], [Composition & Camera: book cover framing, a powerful centered and slightly low-angle composition that emphasizes the figure's monumental act against the crumbling infrastructure], [Lighting & Color Palette: dramatic chiaroscuro lighting with a palette of deep river blues, concrete greys, and the ethereal luminescent gold of the released memories, with highlights of blood red and forest green], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
