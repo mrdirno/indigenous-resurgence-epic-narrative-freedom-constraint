@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The story of our people was a river, and the dam they built to contain it was called the Archive. My grandmother’s voice, the last free tributary, had gone silent in the night. The only thing she left me was a key, a splinter of polished bone, and a single instruction: swallow it before they come to record her final words.
@@ -147,6 +149,8 @@ He was going back. He didn’t have stones or walls or understanding. All he had
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The house was still standing.
@@ -290,6 +294,8 @@ Kai looked at his hands, still dirty from the mud of the night before. They were
 Outside, the grey light strengthened. The house, for now, held. Kai poured himself a cup of cold tea, and waited for the day.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
